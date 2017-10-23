@@ -14,14 +14,3 @@ class POne(object):
 					ans += 1
 					prev = arr[i]
 		return ans
-
-
-
-pone = POne()
-print pone.findPeakAndValley([6])
-print pone.findPeakAndValley([6,8])
-print pone.findPeakAndValley([8,6])
-print pone.findPeakAndValley([2,6,6,6,3])
-print pone.findPeakAndValley([6,6,6,8,9,7])
-print pone.findPeakAndValley([7,1,1,3,2])
-print pone.findPeakAndValley([7,1,1,1,3,3,3,4,4,5,6])
