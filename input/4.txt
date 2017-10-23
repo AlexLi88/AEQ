@@ -1,0 +1,4 @@
+Bluestreak, A, 6,4,4,4,5,5,8,1
+Hubcap, A, 4,4,4,4,4,4,4,4
+Cutthroat, D, 6,4,4,4,5,5,4,1
+SKULLCRUNCHER, D, 4,4,4,4,4,4,4,4
